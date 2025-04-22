@@ -1,0 +1,14 @@
+# Java
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# Системные
+.DS_Store
+Thumbs.db
