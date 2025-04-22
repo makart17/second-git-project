@@ -6,7 +6,8 @@ public class SecondMain {
         System.out.println("Введите два числа:");
         int a = scanner.nextInt();
         int b = scanner.nextInt();
-        System.out.println("Сумма двух чисел равна: " + (a + b));
+        System.out.println("Результат: " + a + b);
+
 
 
 
