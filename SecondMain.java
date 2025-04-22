@@ -7,5 +7,7 @@ public class SecondMain {
         int a = scanner.nextInt();
         int b = scanner.nextInt();
         System.out.println("Сумма: " + (a + b));
+
+
     }
 }
